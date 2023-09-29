@@ -1,0 +1,13 @@
+.terraform/
+*.tfstate
+*.terraform.lock.hcl
+*.tfstate.backup
+*.tfstate.backup
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
